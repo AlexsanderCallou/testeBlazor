@@ -9,30 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdb24440-aebc-437a-82ef-852ff904f053" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/BlazorApp1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/App.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Layout/MainLayout.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Layout/MainLayout.razor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Layout/NavMenu.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Layout/NavMenu.razor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Pages/Counter.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Pages/Error.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Pages/Home.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Pages/Weather.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/Routes.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Components/_Imports.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/wwwroot/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/wwwroot/bootstrap/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/wwwroot/bootstrap/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlazorApp1/wwwroot/favicon.png" afterDir="false" />
-    </list>
+    <list default="true" id="fdb24440-aebc-437a-82ef-852ff904f053" name="Changes" comment="teste2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +21,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AlexsanderCallou/testeBlazor",
+    "accountId": "6ea799ee-e83e-497a-88b2-60b5c83f6055"
+  }
+}]]></component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -123,8 +109,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730769351164</updated>
-      <workItem from="1730769352897" duration="968000" />
+      <workItem from="1730769352897" duration="1274000" />
     </task>
+    <task id="LOCAL-00001" summary="teste">
+      <option name="closed" value="true" />
+      <created>1730770873936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730770873937</updated>
+    </task>
+    <task id="LOCAL-00002" summary="teste2">
+      <option name="closed" value="true" />
+      <created>1730770991985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730770991985</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,5 +148,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="teste" />
+    <MESSAGE value="teste2" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste2" />
   </component>
 </project>
